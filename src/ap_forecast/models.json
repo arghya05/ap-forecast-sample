@@ -1,0 +1,5 @@
+{
+  "provider": "acme-llm",
+  "model": "acme-text-2",
+  "max_tokens": 300
+}
